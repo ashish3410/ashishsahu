@@ -4,7 +4,7 @@ function Home() {
     const navigate = useNavigate()
     return (
         <>
-            <section style={{ backgroundImage: `url('src/assets/common-bg.svg')` }} className=' flex flex-col justify-center text-center h-full pt-48 z-10'>
+            <section style={{ backgroundImage: `url('https://www.rammaheshwari.com/assets/svg/common-bg.svg')` }} className=' flex flex-col justify-center text-center h-full pt-48 z-10'>
                 <div>
                     <h1 className='text-5xl font-bold p-4'>TODO USING REACT TOOLKIT</h1>
                 </div>
