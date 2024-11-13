@@ -24,7 +24,7 @@ function ContactMe() {
         alert(`Hello ${name},Thanks for contacting me!`)
     }
     return (
-        <section style={{backgroundImage:`url('src/assets/common-bg.svg') `}}>
+        <section style={{backgroundImage:`url('https://www.rammaheshwari.com/assets/svg/common-bg.svg') `}}>
             <div className="flex flex-col items-center text-center">
                 <h1 className="text-4xl font-bold">CONTACT</h1>
                 <div className="h-2 w-8 rounded-lg mt-4 bg-violet-600"></div>
