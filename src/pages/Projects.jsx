@@ -28,7 +28,7 @@ function Projects() {
                 {/* Todo App Project */}
                 <div className="flex flex-col lg:flex-row items-center lg:space-x-10">
                     <div className="w-full lg:w-1/2 flex justify-center">
-                        <img className="h-52 lg:h-80" src="src/assets/Todo.png" alt="Todo Web App" />
+                        <img className="h-52 lg:h-80" src=".src/assets/Todo.png" alt="Todo Web App" />
                     </div>
                     <div className="w-full lg:w-1/2 mt-6 lg:mt-0 text-gray-600 text-center lg:text-left lg:px-16">
                         <h2 className="text-2xl font-bold text-black">Todo Web Apps with Context API & Redux Toolkit</h2>
