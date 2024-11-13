@@ -22,7 +22,7 @@ function Home() {
             <section className='mt-20 flex flex-col justify-center items-center'>
                 <div className='lg:w-1/2'>
                     <div className='flex justify-center items-center'>
-                        <img src="https://github.com/ashish3410/ashishsahu/blob/main/src/assets/Todo.png" alt="Todo" />
+                        <img src="/src/assets/todo.png" alt="Todo" />
                     </div>
 
                     <div className='mt-20 lg:ml-20 ml-4 text-gray-600 '>
